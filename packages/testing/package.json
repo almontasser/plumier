@@ -1,6 +1,6 @@
 {
   "name": "@plumier/testing",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "Plumier testing modules",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
@@ -20,8 +20,8 @@
   "author": "Ketut Sandiarsa",
   "license": "MIT",
   "dependencies": {
-    "@types/jest": "^27.0.1",
-    "jest": "^27.1.0"
+    "@types/jest": "^27.0.2",
+    "jest": "^27.2.4"
   },
   "devDependencies": {
     "cpy-cli": "^3.1.1"
